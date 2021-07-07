@@ -263,6 +263,10 @@ Not looked at yet
 * Vosk
 * ESPnet
 
+* Solutions from the TensorFlow Speech Recognition Challenge on github
+  * https://duckduckgo.com/?q=TensorFlow+Speech+Recognition+Challenge+github&t=newext&atb=v101-1&ia=web
+  * These mostly seem to only contain the training code to produce the model yourself.
+
 Custom systems
 ------------------
 
