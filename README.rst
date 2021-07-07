@@ -40,8 +40,9 @@ Data selection
 ---------------
 
 The `Synthetic Speech Commands dataset <https://www.kaggle.com/jbuchner/synthetic-speech-commands-dataset?select=augmented_dataset>`_
-consists of 28 short words which have substantially different pronounciation.
-It combines a variety of human speakers taken from publicly available datasets with 
+consists of 27 short words which have substantially different pronounciation.
+It combines a variety of human speakers taken from the 
+`TensorFlow Speech Recognition Challenge <https://www.kaggle.com/c/tensorflow-speech-recognition-challenge/data>`_ with 
 utterances from text-to-speech (TTS) software run at various speed and pitch.
 A variety of backgrounds are added.
 This allows testing a wide variety of utterances on a small vocabulary.
