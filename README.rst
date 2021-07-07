@@ -54,7 +54,8 @@ Evaluation
 -----------
 
 The same word (e.g., yes) in different utterances is passed to the ASR as a 10-20min file.
-* The number of input utterances is counted.
+
+* The number of input utterances is counted (relevant elements).
 * The number of times the word is recognized correctly (as yes or a homophone) is counted (true positives).
 * The number of times another word from the word list is recognized is counted (false positives, within vocabulary).
 * The number of times a completely different word is recognized is counted (false positive, outside vocabulary)
@@ -253,18 +254,20 @@ Contributions and submissions of evaluations are very welcome!
 
 * Wav2Letter++: Perhaps someone could patch flashlight to allow building with another compiler.
 
-Not looked at yet:
+Not looked at yet
+------------------
 
 * OpenSeq2Seq
 * Fairseq
 * Vosk
 * ESPnet
 
-Custom systems:
+Custom systems
+------------------
 
 To succeed here, a classifier that takes 2 second audio and
 assignes it to one of 28 categories could suffice.
-Combining audio features with random forests, I was not successful with this though.
+Combining audio features with random forests, `I was not successful with this though <https://github.com/JohannesBuchner/spoken-command-recognition/>`_.
 
 
 Takeaway: Speech is hard, and the people working on this have my respect.
