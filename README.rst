@@ -266,8 +266,9 @@ Custom systems
 ------------------
 
 To succeed here, a classifier that takes 2 second audio and
-assignes it to one of 28 categories could suffice.
-Combining audio features with random forests, `I was not successful with this though <https://github.com/JohannesBuchner/spoken-command-recognition/>`_.
+assignes it to one of 28 categories could suffice. 
+Phonemes, transcriptions to an open-ended vocabulary, consideration of context are not really necessary.
+However, combining just audio features with random forests, `I was not successful with this though <https://github.com/JohannesBuchner/spoken-command-recognition/>`_.
 
 
 Takeaway: Speech is hard, and the people working on this have my respect.
