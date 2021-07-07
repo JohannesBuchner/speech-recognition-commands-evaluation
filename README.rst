@@ -46,7 +46,7 @@ utterances from text-to-speech (TTS) software run at various speed and pitch.
 A variety of backgrounds are added.
 This allows testing a wide variety of utterances on a small vocabulary.
 
-The words are: *zero one two three four five six seven eight nine go on off yes no up down left right go stop dog happy house marvel sheila tree wow*
+The words are: *zero one two three four five six seven eight nine on off yes no up down left right go stop dog happy house marvel sheila tree wow*
 
 To get audio examples, download the dataset (wav files in the augmented_dataset/ folder).
 
