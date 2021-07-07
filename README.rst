@@ -236,7 +236,7 @@ Contributions and submissions of evaluations are very welcome!
 * Julius with grammar:
 
   * It should be possible to create a grammar that could improve results (see below)
-  * But I am getting an error that no pause model / pause word was defined.
+  * But I am getting an error that no pause model / pause word was defined --> see `issue #1 <https://github.com/JohannesBuchner/speech-recognition-commands-evaluation/issues/1>`_.
 
 * Kaldi: 
 
