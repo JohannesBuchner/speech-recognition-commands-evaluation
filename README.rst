@@ -1,5 +1,5 @@
-Evaluation of Open Source speech recognition software on commands
-==================================================================
+Evaluation of speech recognition software for commanding a computer
+===================================================================
 
 Lets say you want to command your computer with 10 simple words 
 such as "up", "down", "stop", "six" that you assign
